@@ -1,6 +1,6 @@
 ---
 title: Welcome to 
-title: The-Synergy-Concepts-Group
+title: The Synergy Concepts Group
 ---
 
 We are committed to sharing various online opportunities 
